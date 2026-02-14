@@ -8,3 +8,5 @@ The project was an implementation of image classification of military or civil i
 1. **Report_AI_Squad_NITW.pdf** : PDF file containing in-depth project description.
 2. **Code.py** : Source code of our ML Model
 3. **outputs.zip** : Final outputs obtained based on given data.
+# Final Result  
+Our team advanced to the **National Finals** of the hackathon among **1400+ registered participants**
